@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Moto3</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="distance_0m" />
+    <string name="stop" />
+    <string name="start" />
+</resources>
